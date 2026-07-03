@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev-watch": "node --watch server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "uuid": "^14.0.0"
+  }
+}
